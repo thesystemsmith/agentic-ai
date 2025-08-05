@@ -1,0 +1,10 @@
+.venv/
+bin
+conda-meta
+etc
+include
+lib
+man
+share
+ssl
+sbin
