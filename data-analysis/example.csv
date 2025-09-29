@@ -1,0 +1,11 @@
+ID,Name,Age,Math,Physics,Chemistry,Average,Passed
+101,Alice,20,85,78,92,85.0,Yes
+102,Bob,22,66,74,70,70.0,Yes
+103,Charlie,21,45,50,48,47.7,No
+104,David,23,90,88,94,90.7,Yes
+105,Eva,20,72,70,75,72.3,Yes
+106,Frank,22,55,60,58,57.7,No
+107,Grace,21,95,98,92,95.0,Yes
+108,Hank,24,38,40,35,37.7
+109,Ivy,20,80,82,85,82.3,Yes
+110,Jack,22,60,65,70,65.0,Yes

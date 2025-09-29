@@ -1,0 +1,13 @@
+OrderID,Product,Category,Region,Sales,Quantity,OrderDate
+1001,Smartphone,Electronics,North,699,2,2023-01-15
+1002,Laptop,Electronics,South,1200,1,2023-01-17
+1003,Coffee Maker,Home Appliances,East,150,3,2023-01-20
+1004,Headphones,Electronics,West,200,4,2023-02-01
+1005,Blender,Home Appliances,North,180,2,2023-02-05
+1006,Smartphone,Electronics,South,699,1,2023-02-10
+1007,Desk Chair,Furniture,East,350,1,2023-02-15
+1008,Laptop,Electronics,West,1150,1,2023-02-18
+1009,Microwave,Home Appliances,South,300,2,2023-02-22
+1010,Desk Chair,Furniture,North,360,1,2023-02-25
+1011,Coffee Maker,Home Appliances,West,140,1,2023-03-01
+1012,Smartphone,Electronics,East,699,3,2023-03-05
